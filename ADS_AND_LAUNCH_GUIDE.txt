@@ -1,0 +1,47 @@
+SERENGETI STORE — ADS + LAUNCH CHECKLIST
+========================================
+
+AD 1 — 15-SECOND SHORT VIDEO (VERTICAL 9:16)
+0–2s: Show a plain desk/bedroom corner. On-screen text: “Your room needs one small upgrade…”
+2–5s: Show the LED strip package and the real contents. On-screen text: “RGB LED strip lights”
+5–9s: Follow the manufacturer's instructions and show the lights being installed. Do not show unsafe wiring or claim universal compatibility.
+9–12s: Reveal the finished room in a before/after cut timed to the beat. On-screen text: “Plain corner → favourite corner”
+12–15s: Show the actual product and storefront. On-screen text: “Compare options at Serengeti Store — link in bio.”
+Caption: “A little lighting can change the whole vibe ✨ Compare lengths, controls, compatibility and reviews before choosing. Shop through the link in bio. #RoomSetup #LEDLights #GamingSetup #RoomMakeover”
+Disclosure: If the post contains an affiliate link, clearly disclose that you may earn a commission. Follow the platform's branded-content/ad rules too.
+
+AD 2 — 7-SECOND FAST CUT
+Shot 1 (0–2s): Dark/plain room corner. Text: “Before…”
+Shot 2 (2–4s): Hand switches on the installed LED lights. Text: “Add a little colour.”
+Shot 3 (4–7s): Finished desk/bedroom. Text: “Find your setup upgrade at Serengeti Store.”
+Voiceover: “Want a different vibe for your setup? Compare smart RGB LED strip lights at Serengeti Store.”
+
+AD 3 — IMAGE/POST COPY
+Headline: LIGHT UP YOUR SPACE.
+Body: “From gaming corners to cozy study spaces, colour-changing LED strips can help set the mood. Compare the length, controls, compatibility and reviews before you buy.”
+CTA: “Explore the featured find”
+Footer after approval: “As an Amazon Associate I earn from qualifying purchases.” Until approval, do not claim to be an Amazon Associate.
+
+TIKTOK CONTENT PLAN — FIRST 7 POSTS
+1. Plain desk → colourful desk transformation.
+2. “3 things to check before buying LED strips”: length, controller/app compatibility, power source.
+3. Bedroom corner lighting inspiration (clearly label if the exact product shown is not the linked model).
+4. Daylight vs evening lighting demonstration.
+5. Installation tips based on the manufacturer's instructions; avoid unsafe electrical advice.
+6. Compare two lengths/models only after checking exact specifications and prices.
+7. Honest review after testing the actual product, including limitations.
+
+PRE-LAUNCH CHECKLIST
+[ ] Publish the site to a public HTTPS URL.
+[ ] Read the current Amazon US Associates rules and apply with the real site URL.
+[ ] Apply separately for Amazon UK if targeting that marketplace.
+[ ] Add each valid tracking tag in script.js only after it is issued.
+[ ] Check the exact product page, seller, shipping region, specifications and return policy.
+[ ] Test both buttons on mobile and desktop.
+[ ] Keep the affiliate disclosure visible and clear.
+[ ] Add original useful content (for example honest product comparisons, room setup guides, and product checklists).
+[ ] Track clicks and qualified sales in the Associates dashboards; do not buy through your own affiliate links or ask people to make non-genuine purchases.
+[ ] Don't pay for ads until the site, links, disclosures and tracking have been tested. Start with organic content first.
+
+REALITY CHECK
+No sales or income are guaranteed. The storefront currently uses Amazon search pages rather than a verified exact ASIN/product listing because the exact best model and live price have not been reliably confirmed. Replace the search URLs with exact product links generated through the relevant Amazon Associates account once you choose and verify a model.
